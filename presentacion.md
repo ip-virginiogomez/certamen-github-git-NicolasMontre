@@ -1,0 +1,4 @@
+- **Nombre completo:** Nicolas Montre
+- **Número de Matricula:** 2026003566
+- **Carrera:** Ing. Informatica
+- **Fecha:** 08/05/2026

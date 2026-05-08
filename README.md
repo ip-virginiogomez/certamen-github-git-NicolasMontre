@@ -45,9 +45,9 @@ Crea un archivo llamado `presentacion.md` con el siguiente contenido (reemplaza 
 ```
 # Mi Presentación
 
-- **Nombre completo:** Tu Nombre Aquí
-- **Número de Matricula:** 000000000
-- **Carrera:** Tu Carrera
+- **Nombre completo:** Nicolas Montre
+- **Número de Matricula:** 2026003566
+- **Carrera:**  Ing. Informatica
 - **Fecha:** 08/05/2026
 ```
 
